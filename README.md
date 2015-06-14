@@ -1,6 +1,6 @@
 # Lib MEM
 
-Lib MEM is a basic garbage collector written for C. It use a _huge_ amount of gcc-specifics features and thus should not work with any other compiler. It also use Lib Tools, a header-only library in the same repository.
+Lib MEM is a basic garbage collector written for C. It use a _huge_ amount of gcc-specifics features and thus should not work with any other compiler.
 
 ## How does it works ?
 
